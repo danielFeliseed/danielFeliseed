@@ -80,6 +80,14 @@
 
 -----
 
+##  **Projects I made**
+
+<b>ReMINDER(Vue.js/Nuxt)</b>
+<a href="[https://nuxt-diary.vercel.app/]">
+
+<b>Fenster Farms(Svelte/SvelteKit)</b>
+<a href="https://fenster-farms.vercel.app/">
+
 <br>
 <br>
 
