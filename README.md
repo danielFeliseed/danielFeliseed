@@ -18,7 +18,7 @@
 
 <br>
 
-- A passionate Full-Stack developer
+- Working Full-time as a Full-Stack developer
 - Residing in Aichi, Japan
 - Currently furthering my knowledge in Vue3 and Nuxt
 - 日本語もネイチイブに近いレベルです
