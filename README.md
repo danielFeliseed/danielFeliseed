@@ -82,16 +82,19 @@
 
 ##  **Projects I made**
 
-<b>ReMINDER(Vue.js/Nuxt)</b>
+<li>
 <a href="https://nuxt-diary.vercel.app/" target="_blank">
 </a>
+</li>
 
-<b>Fenster Farms(Svelte/SvelteKit)</b>
+
+
+<br>
+
+<li>
 <a href="https://fenster-farms.vercel.app/" target="_blank">
 </a>
-
-<br>
-<br>
+</li>
 
 ## <b> Let's Connect!</b><img src="https://github.com/danielFeliseed/danielFeliseed/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
