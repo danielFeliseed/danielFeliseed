@@ -78,21 +78,7 @@
 
 -----
 
- Projects I made**
-
-<li>
-<a href="https://nuxt-diary.vercel.app/" target="_blank">
-</a>
-</li>
-
-
-
-<br>
-
-<li>
-<a href="https://fenster-farms.vercel.app/" target="_blank">
-</a>
-</li>
+ 
 
 ## <b> Let's Connect!</b><img src="https://github.com/danielFeliseed/danielFeliseed/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -125,17 +111,5 @@
 <br>
 <br>
 
-<div align='center'>
 
-
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
 
