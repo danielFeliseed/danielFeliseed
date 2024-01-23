@@ -74,13 +74,11 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
+
 
 -----
 
-##  **Projects I made**
+ Projects I made**
 
 <li>
 <a href="https://nuxt-diary.vercel.app/" target="_blank">
