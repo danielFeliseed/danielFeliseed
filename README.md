@@ -20,7 +20,7 @@
 
 - Working Full-time as a Full-Stack developer
 - Residing in Aichi, Japan
-- Currently furthering my knowledge in Vue3 and Nuxt
+- Currently furthering my knowledge in Vue3 and Laravel
 - 日本語もネイチイブに近いレベルです
 
 <br><br>
