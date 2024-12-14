@@ -2,7 +2,7 @@
 <h1 align="center"><b>こんにちは！ I'm Daniel Fenster </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Daniel+Fenster;Front+End+Developer;Skilled+in+the+following+frameworks;React,+Next.js,+Laravel"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Daniel+Fenster;Fullstack+Developer;Skilled+in+the+following+frameworks;React,+Next.js,+Laravel"></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 
 <br>
 
-- Working Full-time as a Front End Developer
+- Working Full-time as a Fullstack Developer
 - Residing in Aichi, Japan
 - Currently furthering my knowledge in React and Next.js
 - 日本語もネイチイブに近いレベルです
