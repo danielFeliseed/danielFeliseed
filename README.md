@@ -19,7 +19,7 @@
 <br>
 
 - Working Full-time as a Fullstack Developer
-- Residing in Aichi, Japan
+- Residing in Hiroshima, Japan
 - Currently furthering my knowledge in React and Next.js
 - 日本語もネイチイブに近いレベルです
 
