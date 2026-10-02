@@ -20,7 +20,7 @@
 
 - Christ Follower
 - Working Full-time as a Fullstack Developer
-- Residing in Hiroshima, Japan
+- Japan
 - Currently furthering my knowledge in React and Next.js
 - 日本語もネイチイブに近いレベルです
 
